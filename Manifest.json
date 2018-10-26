@@ -1,0 +1,22 @@
+
+{
+	"name": " hex",
+	"version": "1.0",
+	"description": "hex decode",
+	"manifest_version": 2,
+	"browser_action": {	
+		"default_icon": "hex.png",
+		"default_popup": "hex.html"
+    },
+
+	"permissions": [
+	   "contextMenus", 
+      "tabs"
+	],
+	 "background": { 
+      "scripts": ["hex.js"]
+    }
+	
+ 
+
+ }
