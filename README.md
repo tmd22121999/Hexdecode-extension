@@ -1,4 +1,4 @@
-#hex decode chrome extension 
+# hex decode chrome extension 
 1 chrome extension giúp hexdecode
 các chức năng thêm khi chuột phải vào phần text bôi đen : 
  - hexdecode
